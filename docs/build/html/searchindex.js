@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{index:0,search:0,sphinx:0,welcom:0,modul:0,about:0,indic:0,page:0,content:0,window:0,program:0,pyqt:0,thi:0,tabl:0,from:0,line:0,document:0,gui:0,build:0},objtypes:{},titles:["Welcome to sphinx-build-qt&#8217;s documentation!"],objnames:{},filenames:["index"]})
