@@ -6,7 +6,7 @@ the ``sphinx-build`` program from the
 `Python Sphinx <http://sphinx.pocoo.org>`_ project. Version ``0.2`` can 
 build an entire project or individual files. 
 
-.. image:: https://github.com/vkvn/sphinx-build-qt/blob/master/images/screenshot-0.2.png
+.. image:: https://github.com/vkvn/sphinx-build-qt/raw/master/images/screenshot-0.2.png 
 
 Requirements
 ------------
