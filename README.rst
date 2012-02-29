@@ -1,12 +1,33 @@
-A simple GUI for the ``sphinx-build`` program
-=============================================
-Tutorial delivered at PyCon Ireland 2011
+About
+=====
+**sphinx-build-qt** is a simple 
+`PyQt <http://www.riverbankcomputing.co.uk/software/pyqt/intro>`_ GUI for 
+the ``sphinx-build`` program from the 
+`Python Sphinx <http://sphinx.pocoo.org>`_ project. Version ``0.2`` can 
+build an entire project or individual files. 
+
+.. image:: images/screenshot-0.2.png
 
 Requirements
 ------------
+
+Users
+.....
+* Python Sphinx
+* PyQt4
+
+Developers
+..........
+To follow this tutorial you will need
+
 * Qt Designer
 * PyQt4 including the development tools (for pyuic4)
 * Python Sphinx
+
+.. note::
+    
+    The tutorial delivered at PyCon Ireland 2011 can be found in the **pycon** 
+    branch.
 
 For Ubuntu and derivatives
 ...........................
@@ -33,9 +54,9 @@ by default (/usr/bin or /usr/local/bin)
 
 Files
 -----
-* dialog.py - main application
-* dialog.ui - the dialog interface designed using Qt Designer (XML format)
-* ui_dialog.py - Python code of dialog.ui generated using pyuic4
+* src/sphinx-build-qt.py - main application
+* src/ui_dialog.py - Python code of dialog.ui generated using pyuic4
+* ui/dialog.ui - the dialog interface designed using Qt Designer (XML format)
 
 The ``docs`` directory contains an example sphinx project
 
